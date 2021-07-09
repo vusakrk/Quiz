@@ -1,0 +1,10 @@
+1. 20
+2. undefined
+3. 1
+4. a
+5. const oldugu ucn deyiwmir
+6. false
+7. yaziliwi sehvdi
+8. const = "Ibrahim" oldugu ucun asagida deyiwmir
+9. arg
+10. Volvo
